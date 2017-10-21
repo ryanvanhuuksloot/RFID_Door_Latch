@@ -32,7 +32,7 @@ Use an Arduino Uno with an RFID shield (PN532), 8 pixel LED light and a servo mo
 * **Ryan van Huuksloot** - *Initial work*
 * **Shawn LaRusic** - *Initial work*
 
-See also the list of [contributors](https://github.com/RyanvanHuuksloot/televisionTracker_cmdLine/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/RyanvanHuuksloot/RFID_Door_Latch/graphs/contributors) who participated in this project.
 
 ## License
 
